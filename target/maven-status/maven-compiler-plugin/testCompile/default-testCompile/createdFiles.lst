@@ -1,0 +1,17 @@
+stepDefinitions\loginSD.class
+Pages\selectCategoryPage.class
+stepDefinitions\registerSD.class
+stepDefinitions\selectTag.class
+stepDefinitions\addProduct.class
+Pages\searchPage.class
+Pages\selectTagPage.class
+Pages\makeOrderPage.class
+stepDefinitions\Hooks.class
+Runners\testRunner.class
+stepDefinitions\searchSD.class
+Pages\loggedUserPage.class
+Pages\loginPage.class
+stepDefinitions\loggedUserSD.class
+stepDefinitions\makeOrderSD.class
+Pages\registerPage.class
+stepDefinitions\selectCategory.class
